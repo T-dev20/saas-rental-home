@@ -1,0 +1,33 @@
+{
+  "name": "villas-platform",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@headlessui/vue": "^1.7.16",
+    "@heroicons/vue": "^1.0.6",
+    "@tailwindcss/forms": "^0.5.6",
+    "@vueuse/core": "^10.5.0",
+    "axios": "^1.5.1",
+    "chart.js": "^4.4.0",
+    "date-fns": "^2.30.0",
+    "pinia": "^2.1.6",
+    "v-calendar": "^3.0.3",
+    "vue": "^3.4.38",
+    "vue-chartjs": "^5.2.0",
+    "vue-i18n": "^9.9.1",
+    "vue-router": "^4.2.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.3",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.3",
+    "vite": "^5.4.2"
+  }
+}
